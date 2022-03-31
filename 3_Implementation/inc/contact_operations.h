@@ -17,3 +17,5 @@
  * @return gives output for all operations 
  */
 int main();
+
+#endif  /* #define _CONTACT_MANAGEMENT_H_ */

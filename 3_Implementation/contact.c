@@ -1,3 +1,13 @@
+/**
+ * @file contact.c
+ * @author Heiram N (heiram.18eee@sonatech.ac.in)
+ * @brief This is the main program where the projet is run
+ * @version 0.1
+ * @date 2022-03-31
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
@@ -10,6 +20,12 @@ struct contact
 char query[20],name[20],c;
 FILE *fp, *ft;
 int i,n,ch,l,found;
+/* Start of the application */
+/**
+ * @brief main program
+ * 
+ * @return int 
+ */
 int main()
 {
     main:
