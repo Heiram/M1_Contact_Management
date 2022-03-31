@@ -6,3 +6,5 @@
 [![Cppcheck Analysis](https://github.com/Heiram/M1_Contact_Management/actions/workflows/cppcheck_analysis.yml/badge.svg)](https://github.com/Heiram/M1_Contact_Management/actions/workflows/cppcheck_analysis.yml)
 ### Unit Testing
 [![Unit Testing - Unity](https://github.com/Heiram/M1_Contact_Management/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/Heiram/M1_Contact_Management/actions/workflows/unit_testing.yml)
+### Codiga
+![Codiga](https://api.codiga.io/project/32316/status/svg)
